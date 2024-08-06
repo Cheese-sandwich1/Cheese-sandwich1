@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jensen</h1>
-- 🔭 I’m currently working on [Electron Market](https://new.electron-ac.com/marketplace)
+- 🔭 I’m currently working on [Electron Services](https://new.electron-ac.com/marketplace)
 
 - 🌱 I’m currently learning **Javascript and C++**
 
-- 👯 I’m looking to collaborate on [Electron Services](https://new.electron-ac.com/)
+- 👯 I’m looking to collaborate on [Electron Services](https://electron-services.com/)
 
-- 📫 How to reach me **electronanticheat@gmail.com**
+- 📫 How to reach me **jensenwsc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
