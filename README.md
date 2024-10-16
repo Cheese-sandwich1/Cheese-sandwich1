@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Javascript and Python**
 
-- 💬 Ask me about **Cheese**
+- 💬 Ask me about **Cheese. all scripts private check discord if want to talk**
 
-- 📫 How to reach me **Discord: https://discord.gg/vgNztzRfzj**
+- 📫 How to reach me **Discord: https://discord.gg/vgNztzRfzj** 
 
 - ⚡ Fun fact **I'm a cheesy developer 🧀🧀🧀**
 
