@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Cheese. all scripts private check discord if want to talk**
 
-- 📫 How to reach me **Discord: https://discord.gg/vgNztzRfzj** 
+- 📫 How to reach me **Discord: https://discord.gg/bMsTdvYu82** 
 
 - ⚡ Fun fact **I'm a cheesy developer 🧀🧀🧀**
 
